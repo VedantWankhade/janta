@@ -1,0 +1,6 @@
+[submodule "janta-web"]
+	path = janta-web
+	url = https://github.com/VedantWankhade/janta-web.git
+[submodule "janta-api"]
+	path = janta-api
+	url = https://github.com/VedantWankhade/janta-api.git
